@@ -1,0 +1,2 @@
+./bin/client:./src/client.cpp
+	g++ -o ./bin/client ./src/client.cpp 
